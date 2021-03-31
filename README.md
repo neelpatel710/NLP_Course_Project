@@ -1,4 +1,4 @@
-# NLP_Course_Project
+# Sentence to Sentence Semantic Similarity
 Semantic similarity of sentences is based on the
 meanings of the words and the syntax of the sentence. The
 semantic analysis plays an important role in the research related
